@@ -1,0 +1,19 @@
+{
+    "name": "xp/package-test",
+    "description": "this is a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiep",
+            "email": "xp796@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Xp\\PackageTest\\":"src"
+        }
+    }
+}
