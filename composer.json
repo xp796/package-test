@@ -15,5 +15,6 @@
         "psr-4":{
             "Xp\\PackageTest\\":"src"
         }
-    }
+    },
+  "version":"1.0"
 }
